@@ -1,2 +1,2 @@
 # nexus-node-bot-telegram
-Bot telegrma made with NodeJs
+Bot telegram made with NodeJs
